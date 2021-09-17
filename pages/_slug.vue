@@ -121,7 +121,7 @@ export default {
   }),
 
   mounted() {
-    if (this.products && this.products.product) {
+    if (this.product) {
       this.loading = false;
     }
   }
