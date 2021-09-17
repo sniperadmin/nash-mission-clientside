@@ -1,4 +1,9 @@
-# nash-mission
+# Nash-Mission!
+
+This is a Nuxt/Sanity simple POC
+
+The backend for this project can be accessed
+via https://nash-mission.sanity.studio/
 
 ## Build Setup
 
