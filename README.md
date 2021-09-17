@@ -2,6 +2,8 @@
 
 This is a Nuxt/Sanity simple POC
 
+Demo here: https://adoring-swartz-751b1f.netlify.app/
+
 The backend for this project can be accessed
 via https://nash-mission.sanity.studio/
 
